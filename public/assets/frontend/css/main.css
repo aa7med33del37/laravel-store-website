@@ -1,0 +1,23 @@
+.selected-currency { width: 30%; }
+.collection-box .colletion-item { height: 200px}
+.colletion-item a { height: 100%; width: 100%;}
+.colletion-item a img{ height: 100%; width: 100%;}
+
+.qtyField .quantityBtn {
+    padding: 10px 6px;
+    width: 30px;
+    height: 42px;
+    border-radius: 0;
+    float: left;
+}
+
+.grid-view_image { height: 400px; }
+.grid-view-item.style2 .grid-view-item__link { height: 100%; }
+.grid-view-item.style2 .grid-view-item__image { height: 100% }
+
+.collection-grid-item {
+    height: 270px;
+}
+
+.collection-box .collection-grid-item__link { height: 100% !important; }
+.collection-box .collection-grid-item__link img { height: 100% !important; }
